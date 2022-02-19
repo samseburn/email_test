@@ -187,6 +187,10 @@ main.face4 {
     #vidGallery article a {
         height: 9vh;
     }
+
+    .hide {
+        display: none;
+    }
 }
 
 
